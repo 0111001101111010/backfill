@@ -1,0 +1,22 @@
+Commandments of Github
+----------------
+
+1. NEVER push to any Main repositories. Only push to your fork. NEVER push upstream.
+
+2. Before starting work on anything run git pull upstream
+
+3. If you have conflicts step away from the computer and ask for help.
+
+4. Create a branch for each task before starting
+	
+		git checkout -b new_branch
+
+		when done:
+			git checkout master
+			git merge new_branch
+
+5. Run git status often. If you have error, ask for help. 
+
+Source @travisjwebb 
+
+HUMAN.TXT requird 

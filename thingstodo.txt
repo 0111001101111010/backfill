@@ -1,0 +1,3 @@
+List of things to do 
+-Test VIM
+-Work on why the shit this isn't working `
