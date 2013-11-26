@@ -1,0 +1,12 @@
+Login
+-----
+Credentials 
+	UserName: 
+		UniqueUser
+		EmailID
+	Password: 
+		password encryption scheme
+		acceptable char
+	Server: which server to connect to
+	Settings
+		
