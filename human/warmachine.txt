@@ -1,12 +1,31 @@
+ADTs and functions 
+
 Login
 -----
 Credentials 
 	UserName: 
 		UniqueUser
 		EmailID
+		0Auth: 
+			Facebook:
+			Google+: 
+			OpenGameID:
 	Password: 
 		password encryption scheme
 		acceptable char
 	Server: which server to connect to
-	Settings
-		
+Settings:
+	Video
+	Audio
+	Controls
+	Game:
+Dice Roll
+	Number of Dice
+	Calback
+	Modifiers
+	RawScore 
+HUD 
+	
+
+
+
