@@ -19,6 +19,6 @@ function poop(size){
 console.log("My size is ... " + size);
 }
 
-
+execute(say,"hitler");
 execute(say,"bob");
 execute(poop, 2); 
