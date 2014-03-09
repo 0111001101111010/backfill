@@ -59,12 +59,12 @@ CMAKE_BINARY_DIR = /Users/stanzheng/code/samples/c++
 # Target rules for target CMakeFiles/misc05_picking_BulletPhysics.dir
 
 # All Build rule for target.
-CMakeFiles/misc05_picking_BulletPhysics.dir/all: external/bullet-2.81-rev2613/src/LinearMath/CMakeFiles/LinearMath.dir/all
-CMakeFiles/misc05_picking_BulletPhysics.dir/all: external/bullet-2.81-rev2613/src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
-CMakeFiles/misc05_picking_BulletPhysics.dir/all: external/bullet-2.81-rev2613/src/BulletCollision/CMakeFiles/BulletCollision.dir/all
 CMakeFiles/misc05_picking_BulletPhysics.dir/all: external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/all
+CMakeFiles/misc05_picking_BulletPhysics.dir/all: external/bullet-2.81-rev2613/src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
 CMakeFiles/misc05_picking_BulletPhysics.dir/all: external/CMakeFiles/GLFW_276.dir/all
 CMakeFiles/misc05_picking_BulletPhysics.dir/all: external/CMakeFiles/GLEW_190.dir/all
+CMakeFiles/misc05_picking_BulletPhysics.dir/all: external/bullet-2.81-rev2613/src/BulletCollision/CMakeFiles/BulletCollision.dir/all
+CMakeFiles/misc05_picking_BulletPhysics.dir/all: external/bullet-2.81-rev2613/src/LinearMath/CMakeFiles/LinearMath.dir/all
 	$(MAKE) -f CMakeFiles/misc05_picking_BulletPhysics.dir/build.make CMakeFiles/misc05_picking_BulletPhysics.dir/depend
 	$(MAKE) -f CMakeFiles/misc05_picking_BulletPhysics.dir/build.make CMakeFiles/misc05_picking_BulletPhysics.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /Users/stanzheng/code/samples/c++/CMakeFiles  68 69
@@ -497,10 +497,10 @@ clean: CMakeFiles/tutorial08_basic_shading.dir/clean
 # Target rules for target CMakeFiles/tutorial09_AssImp.dir
 
 # All Build rule for target.
-CMakeFiles/tutorial09_AssImp.dir/all: external/assimp-3.0.1270/contrib/zlib/CMakeFiles/zlib.dir/all
 CMakeFiles/tutorial09_AssImp.dir/all: external/CMakeFiles/GLFW_276.dir/all
 CMakeFiles/tutorial09_AssImp.dir/all: external/CMakeFiles/GLEW_190.dir/all
 CMakeFiles/tutorial09_AssImp.dir/all: external/assimp-3.0.1270/code/CMakeFiles/assimp.dir/all
+CMakeFiles/tutorial09_AssImp.dir/all: external/assimp-3.0.1270/contrib/zlib/CMakeFiles/zlib.dir/all
 	$(MAKE) -f CMakeFiles/tutorial09_AssImp.dir/build.make CMakeFiles/tutorial09_AssImp.dir/depend
 	$(MAKE) -f CMakeFiles/tutorial09_AssImp.dir/build.make CMakeFiles/tutorial09_AssImp.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /Users/stanzheng/code/samples/c++/CMakeFiles  79

@@ -1,0 +1,26 @@
+{
+  "name": "shit",
+  "version": "0.0.1",
+  "description": "sometimes you want to throw shit together. shim, mash, and frankenstein things",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install shit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/stanzheng/shit"
+  },
+  "keywords": [
+    "shit",
+    "bad",
+    "mash",
+    "dont",
+    "design"
+  ],
+  "author": "stanzheng",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/stanzheng/shit/issues"
+  },
+  "homepage": "https://github.com/stanzheng/shit"
+}
